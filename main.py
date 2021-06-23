@@ -56,6 +56,7 @@ bot.load_extension("cogs.Anime")
 bot.load_extension("cogs.Feelings")
 bot.load_extension("cogs.Moderation")
 bot.load_extension("cogs.Memes")
+bot.load_extension("cogs.Currencies")
 bot.load_extension("jishaku")
 
 bot.help_command = PrettyHelp(color=0xff0000)
